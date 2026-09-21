@@ -1,6 +1,4 @@
-# Project Management Plan
-## for
-## Theia
+# Project Management Plan for Theia
 
 Version 1.0 draft 1
 
