@@ -1,6 +1,6 @@
 # Theia Software Project Management Plan
 
-**Version 1.1 Final**
+**Version 1.2 Final**
 
 CPT_S 484
 
@@ -39,7 +39,7 @@ October 18, 2026
 |---|---|---|---|
 | Preliminary Plan | 9/20/26 | initial draft | 1.0 draft 1 |
 | Minor updates | 9/25/26 | Updated based on feedback | 1.1 |
-| Final Project Plan | 10/18/26 | Finalize the plan | 2.0 |
+| Final Project Plan | 10/18/26 | Finalize the plan | 1.2 |
 
 ---
 
